@@ -1,6 +1,6 @@
 # React-Basic-Slider
 ## Without Design
-Creating for learning purpose of react framework.
+learning purpose repo.
 I just love **Learning React**.
 
 ## Thanks for coming this repo stay good
