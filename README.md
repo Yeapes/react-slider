@@ -1,2 +1,2 @@
-# react-slider
+# slider
 Created with CodeSandbox
